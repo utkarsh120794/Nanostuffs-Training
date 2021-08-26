@@ -1,0 +1,56 @@
+
+body {
+    background-color: #3DB2FF;
+}
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mypic {
+    float: right;
+    padding: 5px;
+    border: 10px;
+    float: left;
+    display: inline-block;
+}
+.Education {
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+.intro {
+   display: inline;
+}
+
+.aboutMe {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    border: 10px;
+}
+
+.mySkills {
+    font-family: cursive;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+.heading2 {
+    font-family: cursive;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.form {
+    color: red;
+}
+
+.inputForm {
+    border: 10px solid black;
+}
